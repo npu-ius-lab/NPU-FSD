@@ -23,7 +23,8 @@
 	待添加..
 
 ## 系统镜像
-	待添加..
+	18.04镜像 conda 显卡驱动 cuda 环境都配好
+  链接: https://pan.baidu.com/s/1s-2Qxc_X5CSX2XNKstWe2A?pwd=iusl 提取码: iusl 
 
 ## 数据集
 
