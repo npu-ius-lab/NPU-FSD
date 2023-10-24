@@ -1,5 +1,5 @@
 # NPU-FSD-OnlineDocumentation
-**NPU-FSD供下载的在线资料-目录**
+**NPU-FSD 在线资料-目录**
 
   * [文档资料](#文档资料)
   * [实用工具](#实用工具)
