@@ -10,7 +10,7 @@
 
  [设计模式](./设计模式之美/README.md)
 
- [Kalman Filter](Kalman Filter)
+ [Kalman filter](Kalman_filter)
 
 ## Papers
 
